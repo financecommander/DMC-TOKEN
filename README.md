@@ -32,7 +32,7 @@ DMC utilizes a modern, compliance-first technology stack:
 * **Backend:** NestJS, Prisma, PostgreSQL.
 * **Intelligence Layer:** NVIDIA Triton Inference Server running XGBoost/LightGBM ensembles. Full SHAP explainability is logged for regulatory compliance and fair-lending audits.
 * **Blockchain & Oracles:** Hardhat/Foundry, deployed on Base. Real-time asset pricing via Chainlink and Pyth network oracles.
-* **Infrastructure:** Terraform, AWS GovCloud (for PII and financial records).
+* **Infrastructure:** Terraform, Google Cloud (for PII and financial records).
 
 ## Repository Structure
 
